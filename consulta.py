@@ -33,7 +33,6 @@ def executaConsulta(sql):
     #PEGANDOS OS RESULTADOS 
     results =  query.result()    
     df = results.to_dataframe()
-    
     return df
     # df.to_csv('teste.csv',index=False, encoding='utf-8', sep = ',') 
     # for row in results:
@@ -44,3 +43,4 @@ retorno = executaConsulta(query)
 geraCSV(retorno, "blinks.csv")
 
 print(retorno)
+
