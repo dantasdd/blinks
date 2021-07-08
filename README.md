@@ -7,7 +7,7 @@
 </p>  
 
 
- <h3 id="about">Pré-requisitos para execusao do script</h3>
+ <h3 id="about">Pré-requisitos para execução do script</h3>
 
 <p> Antes de começar, você vai precisar ter instalado em sua 
     máquina as seguintes ferramentas:</p> 
