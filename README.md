@@ -12,26 +12,27 @@
 <p> Antes de começar, você vai precisar ter instalado em sua 
     máquina as seguintes ferramentas:.</p> 
    
-<p> Git, Python, cadastro no GCP e Github. Além disso é 
-    bom ter um editor para trabalhar com o script como VSCode.</p> 
+<p> - Git, Python, cadastro no GCP e Github. Além disso é 
+    bom ter um editor para trabalhar com o script como VSCode;</p> 
 
-<p> Necessario efetuar o dowloader do arquivo 
- .Json de credenciais no GCP deste projeto.</p>
+<p> - Necessário efetuar o downloader do arquivo 
+ .Json de credenciais no GCP deste projeto;</p>
 
-<p> Ativar o servico de API do Bigquery.</p>
+<p> - Ativar o serviço de API do Bigquery;</p>
 
-<p> Instalacao das bibliotecas do Python (pandas, google_cloud_bigquery, google.oauth2_service_account) utilizando o comanndo "pip install" no shell da sua maquina .</p>
+<p> - Instalação das bibliotecas do Python (pandas, google_cloud_bigquery, google.oauth2_service_account)
+ utilizando o comando "pip install" no shell da sua máquina;</p>
 
-<p> Efetuar o Build do script consulta.py do projeto em sua IDE de preferencia.</p>
+<p> - Efetuar o Build do script consulta.py do projeto em sua IDE de preferência;</p>
 
-<p> Analisar se o script efetuou o upload de dados no arquivo .\csv.</p>
+<p> - Analisar se o script efetuou o upload de dados no arquivo;\csv.</p>
  
- <p> Para versionamento e commit deste projeto foi utilizado a ferramenta Git.</p>
+ <p> - Para versionamento e commit deste projeto foi utilizado a ferramenta Git;</p>
  
- <p> Foi Utilizado o repositorio publico Github para hospedagem.</p>
+ <p> - Foi Utilizado o repositório público Github para hospedagem.</p>
  
  <h3 id="about">Status do Projeto:</h3>
- <p> Concluido.</p>   
+ <p> Concluído.</p>   
  
  <h3 id="about">Autor:</h3>
  <p> Douglas Dantas</p>
