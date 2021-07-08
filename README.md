@@ -10,7 +10,7 @@
  <h3 id="about">Pré-requisitos para execusao do script</h3>
 
 <p> Antes de começar, você vai precisar ter instalado em sua 
-    máquina as seguintes ferramentas:.</p> 
+    máquina as seguintes ferramentas:</p> 
    
 <p> - Git, Python, cadastro no GCP e Github. Além disso é 
     bom ter um editor para trabalhar com o script como VSCode;</p> 
@@ -25,7 +25,7 @@
 
 <p> - Efetuar o Build do script consulta.py do projeto em sua IDE de preferência;</p>
 
-<p> - Analisar se o script efetuou o upload de dados no arquivo;\csv.</p>
+<p> - Analisar se o script efetuou o upload de dados no arquivo .CSV;</p>
  
  <p> - Para versionamento e commit deste projeto foi utilizado a ferramenta Git;</p>
  
