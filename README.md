@@ -29,7 +29,7 @@
  
  <p> - Para versionamento e commit deste projeto foi utilizado a ferramenta Git;</p>
  
- <p> - Foi Utilizado o repositório público Github para hospedagem.</p>
+ <p> - Foi Utilizado o repositório público Github para hospedagem;</p>
  
  <h3 id="about">Status do Projeto:</h3>
  <p> Concluído.</p>   
