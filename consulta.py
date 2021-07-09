@@ -3,7 +3,7 @@ import pandas as pd
 from google.cloud import bigquery
 from google.oauth2 import service_account
 
-#EXECULTANDO CONSULTA AO BIGQUERY.
+#EXECUTANDO CONSULTA AO BIGQUERY.
 query = """    
 SELECT channelGrouping AS Agrupamento_de_Canais, 
  CONCAT(trafficsource.source, trafficsource.medium)
